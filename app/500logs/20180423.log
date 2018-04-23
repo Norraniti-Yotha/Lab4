@@ -1,0 +1,4 @@
+[Mon, 23 Apr 18 17:32:44 +0700][ERROR] [1045]: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[Mon, 23 Apr 18 17:32:56 +0700][ERROR] [1045]: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+

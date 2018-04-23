@@ -11,7 +11,7 @@ return new \Phalcon\Config([
         'adapter'     => 'Mysql', // รูปแบบการเชื่อมต่อ
         'host'        => 'localhost', // ที่อยู่ที่ต้องการเชื่อมต่อฐานข้อมูล
         'username'    => 'root', // ชื่อผู้ใช้เข้า phpmyadmin
-        'password'    => '', // รหัสผ่านเข้า phpmyadmin
+        'password'    => '1234', // รหัสผ่านเข้า phpmyadmin
         'dbname'      => 'event_db', // ชื่อ database
         'charset'     => 'utf8', // string encode เมื่อได้รับการแสดงผล
     ],
